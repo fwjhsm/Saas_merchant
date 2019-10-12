@@ -1,0 +1,1 @@
+[{"domain": "192.168.199.240", "expiry": 1565256319, "httpOnly": false, "name": "SellerMid", "path": "/", "secure": false, "value": "%7B%22token%22%3Anull%2C%22userCode%22%3A%222019070102300%22%2C%22clientId%22%3A%222A7EB886774843C48F4BDC699045B96D%22%2C%22shopId%22%3A1887%7D"}]
